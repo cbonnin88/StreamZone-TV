@@ -6,6 +6,7 @@
 - **Problem:** The marketing team needs to identify which free users are most likely to convert to paid.
 - **Solution:** A Random Forest classifier that scores users based on behavioral signals (Watch Time, Device Type, Replay usage).
 - **Product Action:** The model outputs a propensity_score which triggers specific user flows:
+  
       1. High Intent (> 70%): Show immediate "Premium" checkout prompt.
       2. Medium Intent (40-70%): Send a targeted 10% discount notification.
       3. Low Intent (< 40%): No action (focus on Ad revenue).
