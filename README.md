@@ -1,4 +1,5 @@
-# 📺 Project Premium Lift: Predicting Freemium-to-Paid Conversion
+# 📺 StreamZone TV: Predicting Freemium-to-Paid Conversion
+
 
 ## Business Case
 - **Context:** A "Freemium" streaming app (Live TV + Replay).
